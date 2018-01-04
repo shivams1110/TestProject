@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tts">TtsActivity</string>
+    <string name="english">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions</string>
+    <string name="hindi">आवश्यक वातावरण अन्य मुख्य २४भि बलवान दुनिया मुश्किल प्राधिकरन प्रदान मार्गदर्शन प्रतिबध्दता देते ढांचा देखने जाएन प्रेरना व्यवहार रखति विभाग दिशामे गोपनीयता सहयोग दर्शाता सामूहिक प्रव्रुति जिवन पहेला खरिदने माध्यम देकर प्रति बिना परिवहन सुचनाचलचित्र कार्यसिधान्तो</string>
+    <string name="punjabi">ਪੰਜਾਬੀ ਸਯੂਡੋ ਟੈਕਸਟ ਜਨਰੇਟਰ ਇਕ ਜ਼ਾਲੀ ਲੇਖ ਉਪਜੌਣ ਵਾਲਾ ਪਰੋਗਰਾਮ ਹੈ । ਏਹ ਲੈਟਿਨ ਦੇ ਪਰਸਿੱਧ ਲੇਖ ਲੌਰੇਮ ਏਪਸਮ ਦੀ ਲਗਭਗ ਇਕ ਪੰਜਾਬੀ ਨਕਲ ਹੈ । ਲੌਰੇਮ ਏਪਸਮ ਦੀ ਵਰਤੋਂ ਪੱਸ਼ਮੀ ਮੁਲਕਾਂ \'ਚ ਵੈਬ, ਛਪਾਈ ਅਤੇ ਟਾਈਪਸੈਟਿਂਗ ਕੇਂਦਰਾਂ \'ਚ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ।</string>
+    <string name="title_activity_git_hub_list_user">GitHubListUserActivity</string>
+    <string name="username">username</string>
+    <string name="search">Search</string>
+    <string name="title_activity_rx_java">RxJavaActivity</string>
+    <string name="title_activity_chip_tag">ChipTagActivity</string>
+    <string name="title_activity_video_view">VideoViewActivity</string>
+    <string name="title_activity_search_activty">Search</string>
+
+
+    <string name="not_support">language not support</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+
+
+</resources>

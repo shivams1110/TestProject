@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.royalways.testproject.ChipTagActivity"
+    tools:showIn="@layout/activity_chip_tag">
+
+    <!--<com.pchmn.materialchips.ChipsInput-->
+        <!--android:id="@+id/chips_input"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:hint="Enter a name" />-->
+
+    <com.nex3z.flowlayout.FlowLayout
+        android:layout_margin="15dp"
+        app:flChildSpacing="auto"
+        app:flChildSpacingForLastRow="align"
+        app:flRowSpacing="8dp"
+        android:id="@+id/linear_chip_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <Button
+        android:id="@+id/btn_tag"
+        android:layout_alignParentBottom="true"
+        android:text="Next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!--<com.pchmn.materialchips.ChipView-->
+        <!--android:id="@+id/chip_view"-->
+        <!--app:label="Hello world"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"/>-->
+
+
+</RelativeLayout>
